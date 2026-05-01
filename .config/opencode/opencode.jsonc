@@ -11,5 +11,5 @@
 // SPDX-License-Identifier: CC-BY-SA-4.0+
 {
   "$schema": "https://opencode.ai/config.json",
-  "autoupdate": true
+  "autoupdate": "notify"
 }
