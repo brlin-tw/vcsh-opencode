@@ -8,5 +8,5 @@ The following materials are referenced during the writing of this document:
 
 * [Config | OpenCode](https://opencode.ai/docs/config/)  
   Explains the structure and usage of this directory.
-* [Config | OpenCode](https://opencode.ai/docs/config/#autoupdate)  
+* [Autoupdate | Config | OpenCode](https://opencode.ai/docs/config/#autoupdate)  
   Explains the accepted values of the `autoupdate` field in `opencode.jsonc`.
