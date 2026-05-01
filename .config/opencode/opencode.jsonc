@@ -1,0 +1,15 @@
+// OpenCode global configuration file
+//
+// References:
+//
+// * Config | OpenCode
+//   https://opencode.ai/docs/config/
+// * JSONC | Specification
+//   https://jsonc.org/
+//
+// Copyright 2026 Buo-ren Lin <buo.ren.lin@gmail.com>
+// SPDX-License-Identifier: CC-BY-SA-4.0+
+{
+  "$schema": "https://opencode.ai/config.json",
+  "autoupdate": true
+}
